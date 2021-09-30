@@ -1,0 +1,14 @@
+td {
+    border: 1px solid blue;
+  }
+  
+  td:hover {
+    background: orange;
+  }
+  
+  table {
+    border: 1px solid green;
+    width: 350px;
+    height: 350px;
+    margin: 15px auto;
+  }
