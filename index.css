@@ -1,5 +1,8 @@
 td {
     border: 1px solid blue;
+    width: 150px;
+    height: 150px;
+
   }
   
   td:hover {
@@ -8,7 +11,5 @@ td {
   
   table {
     border: 1px solid green;
-    width: 350px;
-    height: 350px;
     margin: 15px auto;
   }
